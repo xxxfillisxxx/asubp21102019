@@ -1,0 +1,51 @@
+html, body {
+    height: 100%;
+}
+
+#__nuxt {
+    height: 100%;
+}
+
+#__layout {
+    height: 100%;
+}
+
+.height-100 {
+    height: 100%;
+}
+
+.container {
+    /* margin-top: 20px; */
+    margin: 0 auto;
+    margin-left: 20px;
+    min-height: 100%;
+    padding: 25px;
+    width: 90%;
+    box-shadow: 0 4px 30px 0 rgba(223,225,230,0.9);
+}
+
+.width-100 {
+    width: 100%;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+h3, h4 {
+    margin-bottom: 10px;
+}
+
+.table-buttons {
+    margin: 10px 0;
+}
+
+.at-table__content {
+    min-height: 442px;
+    box-shadow: 0 4px 30px 0 rgba(104, 104, 104, 0.14)
+}
+
+.at-table__body {
+    overflow-x: auto;
+    min-height: 442px;
+}
